@@ -2,7 +2,7 @@
 
 ### ~/pentesting
 
-[Pwning with Portals: How Rick Sanchez Dumps DITs](https://github.com/deadjakk/deadjakk.github.io/pivoting.html)
+[Pwning with Portals: How Rick Sanchez Dumps DITs](./pivoting.md)
 
 ### /lost+found
 
