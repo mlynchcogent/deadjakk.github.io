@@ -3,7 +3,7 @@
 ### ~/pentesting
 
 [Pwning with Portals: How Rick Sanchez Dumps DITs](./pivoting.md)  
-[Reg1c1de: Rage against the (HKEY_LOCAL_)MACHINE](./registry_privesc.md)  
+[Reg1c1de: Rage Against the (HKEY_LOCAL_)MACHINE](./registry_privesc.md)  
 
 ### /lost+found
 
