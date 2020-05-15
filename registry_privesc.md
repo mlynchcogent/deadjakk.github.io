@@ -6,7 +6,7 @@ Overall it tries to be a straight-forward tool: it attempts to open every single
 This admittedly, lazier method is of course in direct opposition to the method by which you wade through output from a much more comprehensive, detail-oriented tool like [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum). There is definitely nothing wrong with these tools and they are the primary direction one should probably take when taking a "data-driven" approach.
 However when you are not a walking calculator and only a humble hacker, you are likely just trying to get some privesc on a time-boxed assessment and the last thing you want to do is shuffle through a massive haystack for a needle that may not exist.  
 
-TL;DR: this tool tries, in the most forthright way one can to answer the question: "Can the user that I am currently running as write to anything in places where it usually should not be able to write to things". Also it's loud, so be careful, NOT OPSEC SAFE.
+TL;DR: this tool tries, in the most forthright way one can, to answer the question: "Can the user that I am currently running as write to anything in places where it usually should not be able to write to things". Also it's loud, so be careful, NOT OPSEC SAFE.
 
 ##### A Couple More Notes:
 I wrote it in C# since I feel that has fairly decent flexibility in how many ways it can be run, reflectively, executable, easily ported to powershell. You can even compile it with [ExportDLL](https://github.com/3F/DllExport) and used one of many methods by which to execute DLLs. 
