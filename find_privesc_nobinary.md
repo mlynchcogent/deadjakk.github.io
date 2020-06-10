@@ -60,7 +60,7 @@ Request:
 curl 'https://patchchecker.com/checkprivs/' --data-raw 'wmicinfo=KB1231411 KB1231441 KB1234141&build_num=17763'
 ```
 Response:   
-* note: used some fake KBs so it's showing vuln to everything, i.e. I have nothing installed, also this output is truncated for space *
+note: used some fake KBs so it's showing vuln to everything, i.e. I have nothing installed, also this output is truncated for space
 ```
 {
     "total_vuln": 9,
