@@ -4,6 +4,7 @@
 
 [Pwning with Portals: How Rick Sanchez Dumps DITs](./pivoting.md)  
 [Reg1c1de: Rage Against the (HKEY_LOCAL_)MACHINE](./registry_privesc.md)  
+[PatchChecker: Find PrivEsc Vulns for Windows](./find_privesc_nobinary.md)  
 
 ### /lost+found
 
